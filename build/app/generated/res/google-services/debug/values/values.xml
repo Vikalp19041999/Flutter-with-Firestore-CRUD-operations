@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">292429052961-hlpe7i06p6jfuvefmu2gu3gb1h9qp4p8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://crud-operations-firebase.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">292429052961</string>
+    <string name="google_api_key" translatable="false">AIzaSyAOrYhxnKj3V-mA9d-EaSLGH565ZzMM620</string>
+    <string name="google_app_id" translatable="false">1:292429052961:android:600f560c57b475723a3760</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOrYhxnKj3V-mA9d-EaSLGH565ZzMM620</string>
+    <string name="google_storage_bucket" translatable="false">crud-operations-firebase.appspot.com</string>
+    <string name="project_id" translatable="false">crud-operations-firebase</string>
+</resources>
